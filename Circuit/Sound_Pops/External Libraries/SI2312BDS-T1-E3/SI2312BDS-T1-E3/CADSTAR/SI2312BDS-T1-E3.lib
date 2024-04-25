@@ -1,0 +1,16 @@
+.SI2312BDS-T1-E3 :1 ;N-Channel 20 V (D-S) MOSFET
+SOT95P237X112-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN SI2312BDS-T1-E3
+~!Mouser Part Number (781-SI2312BDS-E3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI2312BDS-T1-E3?qs=jcx%252B0HVgj2b3YhM4OoQ%252BrQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SI2312BDS-T1-E3)
+~!Link Datasheet (http://www.vishay.com/docs/73235/si2312bds.pdf)
+~!Height (1.12mm)
+~!3D_Model (SI2312BDS-T1-E3)
+SI2312BDS-T1-E3
+1.1!U 2.1!U 3.1!U 

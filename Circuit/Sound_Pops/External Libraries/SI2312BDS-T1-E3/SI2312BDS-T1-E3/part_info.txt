@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SI2312BDS-T1-E3
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2019-04-22 03:50:43
+Downloaded=2023-01-27 02:48:44
+3D=Y

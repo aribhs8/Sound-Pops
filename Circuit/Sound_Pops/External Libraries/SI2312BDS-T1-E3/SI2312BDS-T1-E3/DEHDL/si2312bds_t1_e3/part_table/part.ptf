@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SI2312BDS_T1_E3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SI2312BDS-T1-E3" (!) = "", "SOT95P237X112-3N", "SOT23 (3-Pin)", "781-SI2312BDS-E3", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI2312BDS-T1-E3?qs=jcx%252B0HVgj2b3YhM4OoQ%252BrQ%3D%3D", "N-Channel 20 V (D-S) MOSFET", "http://www.vishay.com/docs/73235/si2312bds.pdf", "1.12 mm"
+END_PART
+
+END.

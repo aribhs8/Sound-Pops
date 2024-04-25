@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI2312BDS-T1-E3
+D N-Channel 20 V (D-S) MOSFET
+K
+F http://www.vishay.com/docs/73235/si2312bds.pdf
+$ENDCMP
+#
+#End Doc Library

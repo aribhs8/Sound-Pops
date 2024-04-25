@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_693575"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-04-22-03:50:43)
+    (utime 2019-04-22-06:40:34)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 3) (portType INOUT))
+        (port "3" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SI2312BDS-T1-E3")
+)
+
+
+(pinAssign "ECS_693575"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-04-22-03:50:43)
+    (utime 2019-04-22-06:40:34)
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_693575")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SI2312BDS-T1-E3")
+)
+
+
+(part "SI2312BDS-T1-E3"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-04-22-03:50:43)
+    (utime 2019-04-22-06:40:34)
+    (packageRef "SI2312BDS-T1-E3")
+    (pinAssignRef "ECS_693575")
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "N-Channel 20 V (D-S) MOSFET")
+    (property "Mouser_Part_Number" "781-SI2312BDS-E3")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI2312BDS-T1-E3?qs=jcx%252B0HVgj2b3YhM4OoQ%252BrQ%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "SI2312BDS-T1-E3")
+    (property "Datasheet_Link" "http://www.vishay.com/docs/73235/si2312bds.pdf")
+    (property "compAreaTopHeight" 1.12)
+)
+
+
